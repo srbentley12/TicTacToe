@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Grid Game</string>
+    <string name="reset_button">Reset</string>
+    <string name="button00">O</string>
+    <string name="button01">O</string>
+    <string name="button02">O</string>
+    <string name="button10">O</string>
+    <string name="button11">O</string>
+    <string name="button12">O</string>
+    <string name="button20">O</string>
+    <string name="button21">O</string>
+    <string name="button22">O</string>
+    <string name="top_text_view">TicTacToe X\'s Turn</string>
+</resources>
